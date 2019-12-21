@@ -1,4 +1,4 @@
-The archive contains the following classes,DictionaryObject,IrwsAssignment,IndexObject,OutputQueryObject and the Stemmer class.
+The project contains the following classes,DictionaryObject,IrwsAssignment,IndexObject,OutputQueryObject and the Stemmer class.
 The main method is in IrwsAssignment and it contains two classes which extend thread.
 DictionaryObject,IndexObject and OutputQueryObject are objects which are used by IrwsAssignment.
 Part1 and Part2 are the two classes in IrwsAssignment.
@@ -11,7 +11,7 @@ The results are not inflated to match 100 results with 0 value if the query retu
 The name of the first output text file is Query Output1.txt.Each output is stored in a seperate file in the format "Query Outputx.txt" where x is the number of the next output(for eg Query Output2.txt).
 
 How to run it:
-1.Unzip the archive.
+1.Download the files.
 2.Store all the documents in C:\Assignment_Files\
 3.Compile and run EndAssignment.
 4.The program is divided into Part1 and Part2.
