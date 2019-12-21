@@ -1,7 +1,7 @@
-The project contains the following classes,DictionaryObject,IrwsAssignment,IndexObject,OutputQueryObject and the Stemmer class.
-The main method is in IrwsAssignment and it contains two classes which extend thread.
-DictionaryObject,IndexObject and OutputQueryObject are objects which are used by IrwsAssignment.
-Part1 and Part2 are the two classes in IrwsAssignment.
+The project contains the following classes,DictionaryObject, CranfieldCollection,IndexObject,OutputQueryObject and the Stemmer class.
+The main method is in CranfieldCollection and it contains two classes which extend thread.
+DictionaryObject,IndexObject and OutputQueryObject are objects which are used by CranfieldCollection.
+Part1 and Part2 are the two classes in CranfieldCollection.
 Preprocessing,creation of dictionary,idf calculation,tdfidf calculation,getting the weight,finding the length of each document,
 getting the normalised weight is done in Part1.At the end of Part1,the length of each document is generated as an output and stored in the textfile "Length of document.txt".
 Part1 runs only once everytime the main program is ran.
